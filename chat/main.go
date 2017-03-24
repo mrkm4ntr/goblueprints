@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"sync"
 	"flag"
-	"../trace"
+	"github.com/mrkm4ntr/goblueprints/trace"
 	"os"
 )
 
